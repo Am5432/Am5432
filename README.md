@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Amy 👋
 
-<!--
-**Am5432/Am5432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Programming & Analysis student at Humber College graduating in August 2026.
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Full-Stack Development
+- Mobile App Development
+- React Native
+- Cloud Technologies
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+### Languages
+- Java
+- JavaScript
+- Python
+- SQL
+- HTML/CSS
+
+### Technologies & Frameworks
+- React
+- React Native
+- Firebase
+- Node.js
+- MySQL
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### Humber Event App
+Cross-platform mobile application developed using React Native and Firebase for event management and student engagement.
+
+### CampusChat
+Discord-style real-time chat application with Firebase authentication and messaging.
+
+### Personal Notes App
+Cloud-based notes application with authentication and Firestore integration.
+
+## 🌱 Currently Learning
+- Machine Learning
+- Business Intelligence
+- Robotic Process Automation
+- Emerging Technologies
+
+## 📫 Contact
+- Email: amyruby2020@gmail.com
+- LinkedIn: www.linkedin.com/in/amymaria-prasad-a59102309
