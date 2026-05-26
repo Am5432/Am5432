@@ -1,42 +1,51 @@
-# Hi, I'm Amy 👋
+# Amy Maria Prasad
 
-🎓 Computer Programming & Analysis student at Humber College.
+Computer Programming & Analysis student at Humber College with hands-on experience in full-stack web and mobile application development.
 
-💻 Passionate about:
-- Full-Stack Development
-- Mobile App Development
-- React Native
-- Cloud Technologies
-- Artificial Intelligence
+I enjoy building practical applications using React Native, JavaScript, Java, and modern web technologies while continuously improving my skills in software development, databases, and cloud technologies.
 
-## 🛠 Technical Skills
-### Languages
+---
+
+## Technical Skills
+
+**Languages**
 - Java
 - JavaScript
 - Python
 - SQL
 - HTML/CSS
 
-### Technologies & Frameworks
+**Frameworks & Technologies**
 - React
 - React Native
-- Firebase
 - Node.js
+- Firebase
 - MySQL
 - Git & GitHub
 
-##  Featured Projects
+---
+
+## Projects
 
 ### Humber Event App
-Cross-platform mobile application developed using React Native and Firebase for event management and student engagement.
+Full-stack event management application developed with React Native and Node.js for managing student events and registrations.
 
 ### CampusChat
-Discord-style real-time chat application with Firebase authentication and messaging.
+Real-time chat application inspired by Discord with authentication and messaging features.
 
 ### Personal Notes App
-Cloud-based notes application with authentication and Firestore integration.
+Cloud-connected note-taking application with Firebase authentication and Firestore integration.
 
+---
 
-##  Contact
-- Email: amyruby2020@gmail.com
-- LinkedIn: www.linkedin.com/in/amymaria-prasad-a59102309
+## Currently Learning
+- Machine Learning
+- Business Intelligence
+- Cloud Computing
+- Emerging Technologies
+
+---
+
+## Contact
+📧 Email: amyruby2020@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/amymaria-prasad-a59102309
