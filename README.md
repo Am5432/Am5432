@@ -1,4 +1,4 @@
-# Amy Maria Prasad
+# Hi I'm Amy Maria Prasad
 
 Computer Programming & Analysis student at Humber College with hands-on experience in full-stack web and mobile application development.
 
