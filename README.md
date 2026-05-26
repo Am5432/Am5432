@@ -25,7 +25,7 @@
 - MySQL
 - Git & GitHub
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### Humber Event App
 Cross-platform mobile application developed using React Native and Firebase for event management and student engagement.
@@ -37,6 +37,6 @@ Discord-style real-time chat application with Firebase authentication and messag
 Cloud-based notes application with authentication and Firestore integration.
 
 
-## 📫 Contact
+##  Contact
 - Email: amyruby2020@gmail.com
 - LinkedIn: www.linkedin.com/in/amymaria-prasad-a59102309
