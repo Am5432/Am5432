@@ -1,6 +1,6 @@
 # Hi, I'm Amy 👋
 
-🎓 Computer Programming & Analysis student at Humber College graduating in August 2026.
+🎓 Computer Programming & Analysis student at Humber College.
 
 💻 Passionate about:
 - Full-Stack Development
@@ -36,11 +36,6 @@ Discord-style real-time chat application with Firebase authentication and messag
 ### Personal Notes App
 Cloud-based notes application with authentication and Firestore integration.
 
-## 🌱 Currently Learning
-- Machine Learning
-- Business Intelligence
-- Robotic Process Automation
-- Emerging Technologies
 
 ## 📫 Contact
 - Email: amyruby2020@gmail.com
